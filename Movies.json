@@ -1,0 +1,22 @@
+{
+  "movies": [
+    {
+      "title": "Inception",
+      "genre": "Sci-Fi",
+      "year": 2010,
+      "id": "1"
+    },
+    {
+      "title": "Dune",
+      "genre": "Sci-Fi",
+      "year": 2021,
+      "id": "3"
+    },
+    {
+      "id": "c910",
+      "title": "sad",
+      "genre": "add",
+      "year": 1212
+    }
+  ]
+}
